@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Mohit Sharda</h1>
 <h3 align="center">Building the Future of the Web</h3>
 
+<img align="right" alt="Coding" widht="400" scr="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mohit-sharda&label=Profile%20views&color=0e75b6&style=flat" alt="mohit-sharda" /> </p>
 
 - 🌱 I’m currently learning **Backend**
